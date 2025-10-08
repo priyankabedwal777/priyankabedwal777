@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Hello+World!+I'm+Priyanka+%F0%9F%91%8B;Frontend+React+Developer+%F0%9F%9A%80;Building+Amazing+User+Experiences+%E2%9C%A8;Welcome+to+my+Code+Galaxy+%F0%9F%8C%8C" alt="Typing SVG" />
 
-<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="500">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500">
 
 </div>
 
@@ -14,15 +14,16 @@
 
 ## 🎭 About This Code Magician 🎭
 
-<img align="right" alt="Coding Girl" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+<img align="right" alt="Coding Girl" width="400" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">
 
 </div>
- 
+
+🎓 **Currently Mastering:** MCA at Guru Jambheshwar University (2023-2025)  
 💻 **Passion:** Crafting pixel-perfect React applications  
 🌱 **Learning Journey:** Advanced React patterns & scalable architectures  
 📍 **Base Station:** Gurugram, India  
 ⚡ **Fun Fact:** I turn coffee into code and bugs into features! ☕→💻  
-💌 **Let's Connect:** priyankabedwal.work@gmail.com
+💌 **Let's Connect:** priyankabedwal.work@gmail.com  
 
 ---
 
@@ -34,7 +35,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7ca7d2.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
 
 ### Frontend Superpowers
-
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -42,14 +42,12 @@
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
 ### Styling Magic
-
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ### Tools & Deployment
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -63,22 +61,18 @@
 
 ## 💼 Professional Journey 💼
 
-<img src="https://user-images.githubusercontent.com/74038190/212749695-7d725f76-6395-4cc4-ace6-64b2fbef576a.gif" width="400">
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400">
 
 </div>
 
 ### 🚀 **Frontend React Developer** @ Mayank Software Solutions
-
-_Nov 2024 - Present | Gurugram_
-
+*Nov 2024 - Present | Gurugram*
 - 🎯 Built scalable **Approval Management System** reducing manual efforts by **60%**
 - 📊 Developed dynamic dashboards with **Syncfusion DataGrids** & real-time analytics
 - ⚡ Optimized performance with **Vite** & code-splitting, boosting speed by **45%**
 
-### 💡 **Frontend Developer** @ Global Aspirants
-
-_Nov 2023 - Oct 2024 | Gurugram_
-
+### 💡 **Frontend Developer** @ Global Aspirants  
+*Nov 2023 - Oct 2024 | Gurugram*
 - 🌐 Crafted **EasyCampus.ai** with Next.js, React.js & Tailwind CSS
 - 🔐 Implemented **RBAC** and placement management systems
 - 🚀 Enhanced performance via **SSR** and lazy loading
@@ -89,7 +83,7 @@ _Nov 2023 - Oct 2024 | Gurugram_
 
 ## 🎨 Featured Masterpieces 🎨
 
-<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="500">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500">
 
 </div>
 
@@ -98,7 +92,6 @@ _Nov 2023 - Oct 2024 | Gurugram_
 <td width="50%">
 
 ### 🎓 EasyCampus.ai
-
 **Tech Stack:** Next.js • React.js • Tailwind CSS • RBAC  
 **Impact:** Centralized placement management platform  
 **Features:** Responsive UI, Role-based access, SSR optimization
@@ -106,8 +99,7 @@ _Nov 2023 - Oct 2024 | Gurugram_
 </td>
 <td width="50%">
 
-### ⚡ Approval Management System
-
+### ⚡ Approval Management System  
 **Tech Stack:** React.js • Redux Toolkit • Syncfusion • Vite  
 **Impact:** 60% reduction in manual interventions  
 **Features:** Hierarchical permissions, Real-time analytics
@@ -118,7 +110,6 @@ _Nov 2023 - Oct 2024 | Gurugram_
 <td width="50%">
 
 ### 📝 EasyCampus Registration Portal
-
 **Tech Stack:** React.js • API Integration • Form Validation  
 **Impact:** 25% reduction in manual errors  
 **Features:** Student onboarding, Interview scheduling
@@ -127,7 +118,6 @@ _Nov 2023 - Oct 2024 | Gurugram_
 <td width="50%">
 
 ### 🌐 Company Website
-
 **Tech Stack:** React.js • Tailwind CSS • Responsive Design  
 **Impact:** 25% improvement in client engagement  
 **Features:** Optimized performance, Modern UI/UX
@@ -142,12 +132,12 @@ _Nov 2023 - Oct 2024 | Gurugram_
 
 ## 🏆 Achievements & Certifications 🏆
 
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400">
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="400">
 
 🎖️ **Web Development** - Infosys  
 🎖️ **Frontend Development** - Simplilearn  
 🎖️ **React.js Mastery** - Scaler  
-🎖️ **Web Designing** - Ducat India
+🎖️ **Web Designing** - Ducat India  
 
 </div>
 
@@ -173,7 +163,7 @@ _Nov 2023 - Oct 2024 | Gurugram_
 
 ## 🌐 Let's Connect & Create Magic Together! 🌐
 
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400">
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="400">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanka-bedwal-6a66a4281/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/priyankabedwal777)
