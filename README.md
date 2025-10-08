@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Hello+World!+I'm+Priyanka+%F0%9F%91%8B;Frontend+React+Developer+%F0%9F%9A%80;Building+Amazing+User+Experiences+%E2%9C%A8;Welcome+to+my+Code+Galaxy+%F0%9F%8C%8C" alt="Typing SVG" />
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="500">
 
 </div>
 
@@ -14,7 +14,7 @@
 
 ## 🎭 About This Code Magician 🎭
 
-<img align="right" alt="Coding Girl" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding Girl" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 </div>
  
@@ -63,7 +63,7 @@
 
 ## 💼 Professional Journey 💼
 
-<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="400">
+<img src="https://user-images.githubusercontent.com/74038190/212749695-7d725f76-6395-4cc4-ace6-64b2fbef576a.gif" width="400">
 
 </div>
 
@@ -89,7 +89,7 @@ _Nov 2023 - Oct 2024 | Gurugram_
 
 ## 🎨 Featured Masterpieces 🎨
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="500">
 
 </div>
 
@@ -142,7 +142,7 @@ _Nov 2023 - Oct 2024 | Gurugram_
 
 ## 🏆 Achievements & Certifications 🏆
 
-<img src="https://user-images.githubusercontent.com/74038190/216644507-4f06ea29-bf55-4356-aac0-d42751461a9d.gif" width="400">
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400">
 
 🎖️ **Web Development** - Infosys  
 🎖️ **Frontend Development** - Simplilearn  
@@ -173,7 +173,7 @@ _Nov 2023 - Oct 2024 | Gurugram_
 
 ## 🌐 Let's Connect & Create Magic Together! 🌐
 
-<img src="https://user-images.githubusercontent.com/74038190/216644505-0b335d76-f4d0-4348-a939-84c9c54b1091.gif" width="400">
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanka-bedwal-6a66a4281/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/priyankabedwal777)
