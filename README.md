@@ -10,7 +10,7 @@
 🌱 **Learning:** Advanced React patterns & scalable architectures  
 📍 **Location:** Gurugram, India  
 ⚡ **Fun Fact:** I turn coffee into code and bugs into features! ☕→💻
-🏀 Outside of coding: I love playing basketball!
+🏀 **Outside of coding:** I love playing basketball!
 
 ---
 
