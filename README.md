@@ -1,19 +1,19 @@
 <div align="center">
 
-# Hi, I'm Priyanka 👋
+# 🌟 Welcome to Priyanka's Digital Universe 🌟
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=500&lines=Frontend+React+Developer;Building+Amazing+User+Experiences" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=700&lines=Hello+World!+I'm+Priyanka+%F0%9F%91%8B;Frontend+React+Developer+%F0%9F%9A%80;Building+Amazing+User+Experiences+%E2%9C%A8" alt="Typing SVG" />
 
-</div>
+## 🎭 About Me
 
-## 👩‍💻 About Me
+💻 **Passion:** Crafting pixel-perfect React applications  
+🌱 **Learning:** Advanced React patterns & scalable architectures  
+📍 **Location:** Gurugram, India  
+⚡ **Fun Fact:** I turn coffee into code and bugs into features! ☕→💻
 
-- 🚀 Frontend Developer specializing in React applications
-- 🌱 Currently learning advanced React patterns & scalable architectures
-- 📍 Based in Gurugram, India
-- ☕ Coffee enthusiast who turns ideas into code
+---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -24,23 +24,23 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-## 📈 GitHub Stats
+---
 
-<div align="center">
+## 📊 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=priyankabedwal777&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=FF6B9D&text_color=FFF" width="48%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyankabedwal777&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=FFF" width="48%">
 
-</div>
+---
 
-## 🤝 Connect With Me
-
-<div align="center">
+## 🌐 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanka-bedwal-6a66a4281/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/priyankabedwal777)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyankabedwal.work@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=priyankabedwal777&label=Profile%20Views&color=FF6B9D&style=for-the-badge" alt="Profile Views" />
+
+**⭐ Star my repositories if you find them interesting! ⭐**
 
 </div>
