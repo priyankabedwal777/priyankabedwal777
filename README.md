@@ -21,6 +21,8 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
@@ -29,7 +31,7 @@
 ## 📊 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=priyankabedwal777&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=0ea5a4&icon_color=0ea5a4&text_color=FFF" width="48%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyankabedwal777&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=0ea5a4&text_color=FFF&hide=c%2B%2B,c,java,python" width="48%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyankabedwal777&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=0ea5a4&text_color=FFF&hide=c%2B%2B,c,java,python,php,ruby,go,rust,kotlin,scala,shell" width="48%">
 
 ---
 
