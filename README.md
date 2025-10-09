@@ -31,7 +31,7 @@
 ## 📊 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=priyankabedwal777&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=0ea5a4&icon_color=0ea5a4&text_color=FFF" width="48%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyankabedwal777&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=0ea5a4&text_color=FFF&hide=c%2B%2B,c,java,python,php,ruby,go,rust,kotlin,scala,shell" width="48%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyankabedwal777&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=0ea5a4&text_color=FFF&hide=java,python,php,ruby,go,rust,kotlin,scala,shell" width="48%">
 
 ---
 
