@@ -32,12 +32,18 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=priyankabedwal777&show_icons=true&theme=radical&hide_rank=true&hide_border=true&bg_color=0D1117&title_color=0ea5a4&icon_color=0ea5a4&text_color=FFF" 
     width="48%" 
     alt="Priyanka's GitHub stats"
   />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyankabedwal777&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=0ea5a4&text_color=FFF&hide=c,cpp,java,python,php,ruby,go,rust,kotlin,scala,shell&langs_count=6&custom_title=Most%20Used%20Tech%20Stack" 
+    width="48%" 
+    alt="Top Languages"
+  />
+</p>
 
 <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyankabedwal777&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=0ea5a4&text_color=FFF&hide=c,cpp,java,python,php,ruby,go,rust,kotlin,scala,shell&langs_count=6&custom_title=Most%20Used%20Tech%20Stack" 
