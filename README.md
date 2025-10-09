@@ -32,7 +32,7 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div>
   <img 
     src="https://github-readme-stats.vercel.app/api?username=priyankabedwal777&show_icons=true&theme=radical&hide_rank=true&hide_border=true&bg_color=0D1117&title_color=0ea5a4&icon_color=0ea5a4&text_color=FFF" 
     width="48%" 
