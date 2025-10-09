@@ -1,8 +1,6 @@
-<div align="center">
-
 # 🌟 Welcome to Priyanka's Digital Universe 🌟
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=700&lines=Hello+World!+I'm+Priyanka+%F0%9F%91%8B;Frontend+React+Developer+%F0%9F%9A%80;Building+Amazing+User+Experiences+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FF6B9D&width=700&lines=Hello+World!+I'm+Priyanka+%F0%9F%91%8B;Frontend+React+Developer+%F0%9F%9A%80;Building+Amazing+User+Experiences+%E2%9C%A8" alt="Typing SVG" />
 
 ---
 
@@ -32,28 +30,22 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=priyankabedwal777&show_icons=true&theme=radical&hide_rank=true&hide_border=true&bg_color=0D1117&title_color=0ea5a4&icon_color=0ea5a4&text_color=FFF" 
-    width="48%" 
-    alt="Priyanka's GitHub stats"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyankabedwal777&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=0ea5a4&text_color=FFF&hide=c,cpp,java,python,php,ruby,go,rust,kotlin,scala,shell&langs_count=6&custom_title=Most%20Used%20Tech%20Stack" 
-    width="48%" 
-    alt="Top Languages"
-  />
-</p>
-
-</div>
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=priyankabedwal777&show_icons=true&theme=radical&hide_rank=true&hide_border=true&bg_color=0D1117&title_color=0ea5a4&icon_color=0ea5a4&text_color=FFF" 
+  width="48%" 
+  alt="Priyanka's GitHub stats"
+/>
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyankabedwal777&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=0ea5a4&text_color=FFF&hide=c,cpp,java,python,php,ruby,go,rust,kotlin,scala,shell&langs_count=6&custom_title=Most%20Used%20Tech%20Stack" 
+  width="48%" 
+  alt="Top Languages"
+/>
 
 ---
 
 ## 🧠 Tech Focus
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,react,nextjs,typescript,html,css,redux,tailwind,git,vercel" />
-</p>
+<img src="https://skillicons.dev/icons?i=javascript,react,nextjs,typescript,html,css,redux,tailwind,git,vercel" />
 
 ---
 
