@@ -28,19 +28,11 @@
 <tr>
 <td align="center" width="50%">
 
-🎓 **Currently Mastering**  
-MCA at Guru Jambheshwar University (2023-2025)
-
 💻 **Passion**  
 Crafting pixel-perfect React applications
 
 🌱 **Learning Journey**  
 Advanced React patterns & scalable architectures
-
-</td>
-<td align="center" width="50%">
-
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="350" height="250">
 
 </td>
 </tr>
@@ -138,10 +130,6 @@ Advanced React patterns & scalable architectures
 <div align="center">
 
 ## 🌐 Let's Connect & Create Magic Together! 🌐
-
-<br/>
-
-<!-- <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="400" height="250"> -->
 
 <br/><br/>
 
