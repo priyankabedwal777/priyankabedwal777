@@ -127,13 +127,13 @@ Advanced React patterns & scalable architectures
 
 <br/>
 
-<img width="800" src="https://github-readme-streak-stats.herokuapp.com/?user=priyankabedwal777&theme=radical&hide_border=true&background=0D1117&stroke=FF6B9D&ring=FF6B9D&fire=FF6B9D&currStreakLabel=FF6B9D">
+<!-- <img width="800" src="https://github-readme-streak-stats.herokuapp.com/?user=priyankabedwal777&theme=radical&hide_border=true&background=0D1117&stroke=FF6B9D&ring=FF6B9D&fire=FF6B9D&currStreakLabel=FF6B9D"> -->
 
-<br/><br/>
+<!-- <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyankabedwal777&bg_color=0D1117&color=FF6B9D&line=FF6B9D&point=FFFFFF&area=true&hide_border=true">
 
-</div>
+</div> -->
 
 <br/>
 
