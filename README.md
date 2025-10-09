@@ -9,8 +9,9 @@
 💻 **Passion:** Crafting pixel-perfect React applications  
 🌱 **Learning:** Advanced React patterns & scalable architectures  
 📍 **Location:** Gurugram, India  
-⚡ **Fun Fact:** I turn coffee into code and bugs into features! ☕→💻
-🏀 **Outside of coding:** I love playing basketball!
+⚡ Fun Fact: I turn coffee into code and bugs into features! ☕→💻<br>
+🏀 Outside of coding: I love playing basketball!
+
 
 ---
 
