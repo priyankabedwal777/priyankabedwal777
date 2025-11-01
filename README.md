@@ -37,7 +37,6 @@
   width="48%" 
   alt="Priyanka's GitHub stats"
 />
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=priyankabedwal777&theme=default)
 <img 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyankabedwal777&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=0ea5a4&text_color=FFF&hide=c,cpp,java,python,php,ruby,go,rust,kotlin,scala,shell&langs_count=6&custom_title=Most%20Used%20Tech%20Stack" 
   width="48%" 
