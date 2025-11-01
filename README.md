@@ -43,6 +43,19 @@
   alt="Top Languages"
 />
 
+
+## 📈 Contribution Progress
+
+**Commits**  
+![Commits](https://progress-bar.dev/50/?title=50%&width=400&color=0ea5a4)
+
+**Pull Requests**  
+![PRs](https://progress-bar.dev/60/?title=60%&width=400&color=ff6b9d)
+
+**Issues Fixed**  
+![Issues](https://progress-bar.dev/1/?title=1%&width=400&color=facc15)
+
+
 ---
 
 ## 🧠 Tech Focus
