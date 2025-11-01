@@ -37,6 +37,16 @@
   width="48%" 
   alt="Priyanka's GitHub stats"
 />
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=priyankabedwal777&show_icons=true&theme=radical&hide_rank=true&hide_border=true&bg_color=0D1117&title_color=0ea5a4&icon_color=0ea5a4&text_color=FFF" 
+  width="48%" 
+  alt="Priyanka's GitHub stats"
+/>
+
+![Contributed to](https://img.shields.io/badge/Contributed%20to-11%20Repos-0ea5a4?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)
+![Total Commits](https://img.shields.io/badge/Total%20Commits-33-0ea5a4?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117)
+![Total PRs](https://img.shields.io/badge/Pull%20Requests-47-ff6b9d?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)
+![Issues Fixed](https://img.shields.io/badge/Issues-1-22c55e?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)
 
 <img 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyankabedwal777&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=0ea5a4&text_color=FFF&hide=c,cpp,java,python,php,ruby,go,rust,kotlin,scala,shell&langs_count=6&custom_title=Most%20Used%20Tech%20Stack" 
